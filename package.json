@@ -1,0 +1,14 @@
+{
+  "name": "insider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c",
+  "scripts": {
+    "test": "^c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
