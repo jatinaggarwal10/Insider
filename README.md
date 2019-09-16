@@ -51,7 +51,9 @@ Once we’ve created that file, we should see the Cypress Test Runner immediatel
 
 # Running the tests
 <br>
-Open Cypress and click on Assignment.js  file
+Open Cypress folder <br>
+Open Integration Folder<br>
+and click on Assignment.js  file<br>
 
 # Support
 <br>
